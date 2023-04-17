@@ -2,7 +2,7 @@
 - 👀 I’m interested in design, webdesign, mobile application and video games
 - 🌱 I’m currently learning Javascript, C, Python
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me : aurelie@macomdesign.fr
+- 📫 How to reach me : contact@aurelielukoji.com
 
 <!---
 victoirelkj/victoirelkj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
